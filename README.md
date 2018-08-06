@@ -1,4 +1,4 @@
-# DataStructure
+# DataStructure (Feb 2017)
 Object was to create an inventory system that uses a Simple Linked List concept. 
 The program should be able to keep track of the SKU, item name, unit price, quantity on hand, and category. 
 Currently the program has the following operations: 
